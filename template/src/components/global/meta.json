@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_global_metas",
+  "info": {
+    "displayName": "Meta",
+    "icon": "cloud"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaKeywords": {
+      "type": "string"
+    },
+    "metaDescription": {
+      "type": "string"
+    }
+  }
+}

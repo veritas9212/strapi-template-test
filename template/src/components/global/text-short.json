@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_global_text_short_s",
+  "info": {
+    "displayName": "Text (Short)",
+    "icon": "cloud"
+  },
+  "options": {},
+  "attributes": {
+    "singleLineText": {
+      "type": "string"
+    }
+  }
+}
